@@ -30,3 +30,6 @@ termcolor
 
 #
 Bio
+
+# apps
+streamlit
